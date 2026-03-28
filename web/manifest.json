@@ -1,11 +1,11 @@
 {
-    "name": "godaloneint",
-    "short_name": "godaloneint",
+    "name": "God Alone International Ministry",
+    "short_name": "GAIM",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#0D1B3E",
+    "theme_color": "#2BA8B8",
+    "description": "A spirit-filled, kingdom prosperity centred church in Tema, Ghana.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
